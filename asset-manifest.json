@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/katy-flowers/static/css/main.7acaea2f.css",
+    "main.js": "/katy-flowers/static/js/main.07d3183d.js",
+    "index.html": "/katy-flowers/index.html",
+    "main.7acaea2f.css.map": "/katy-flowers/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/katy-flowers/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
